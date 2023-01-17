@@ -15,6 +15,7 @@ bt.xxx-tracker.com
 bt1.archive.org
 bt2.archive.org
 carr.codes
+coppersurfer.tk
 cpe-104-34-3-152.socal.res.rr.com
 cutscloud.duckdns.org
 denis.stalker.upeer.me
@@ -40,6 +41,7 @@ mirror.aptus.co.tz
 moonburrow.club
 movies.zsw.ca
 new-line.net
+nyaa.tracker.wf
 open-v6.demonoid.ch
 open.4ever.tk
 open.acgnxtracker.com
@@ -57,6 +59,7 @@ psyco.fr
 public-tracker.ml
 rep-art.ynh.fr
 retracker.lanta-net.ru
+retracker.local
 sanincode.com
 share.camoe.cn
 slicie.icon256.com
@@ -132,6 +135,7 @@ tracker1.bt.moack.co.kr
 tracker1.ctix.cn
 tracker2.ctix.cn
 tracker2.dler.com
+tracker3.itzmx.com
 trackerb.jonaslsa.com
 trackers.mlsub.net
 u4.trakx.crim.ist
