@@ -14,6 +14,8 @@ bt.okmp3.ru
 bt.xxx-tracker.com
 bt1.archive.org
 bt2.archive.org
+bt2.t-ru.org
+bt4.t-ru.org
 carr.codes
 coppersurfer.tk
 cpe-104-34-3-152.socal.res.rr.com
